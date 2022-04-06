@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">A passionate mobile developer from Brazil</h3>
+<h3 align="center">A mobile developer from Brazil</h3>
 
 - 📫 How to reach me **andersoncanteiro@me.com**
 
