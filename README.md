@@ -22,4 +22,4 @@
 <a href="https://kotlinlang.org/lp/mobile/" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/lp/mobile/static/preview-b35423efdc2f71fe59c2c78747b0019c.png" alt="Kotlin Multiplatform Mobile" width="80" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncanteiro&langs_count=4&layout=compact)](https://github.com/andersoncanteiro/andersoncanteiro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncanteiro&langs_count=4&layout=compact)](https://github.com/andersoncanteiro/)
