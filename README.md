@@ -19,5 +19,5 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://reactivex.io" target="_blank" rel="noreferrer"> <img src="https://reactivex.io/assets/Rx_Logo_S.png" alt="RxJava" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/lp/mobile/" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/lp/mobile/static/preview-b35423efdc2f71fe59c2c78747b0019c.png" alt="Kotlin Multiplatform Mobile" width="80" height="40"/> </a>
+<a href="https://kotlinlang.org/lp/mobile/" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/lp/mobile/static/preview-9d9a0c57354e45917fadcdac067294d3.png" alt="Kotlin Multiplatform Mobile" width="80" height="40"/> </a>
 </p>
