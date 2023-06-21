@@ -9,15 +9,32 @@
 <a href="https://stackoverflow.com/users/3687773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3687773" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-<a href="https://reactivex.io" target="_blank" rel="noreferrer"> <img src="https://reactivex.io/assets/Rx_Logo_S.png" alt="RxJava" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/lp/mobile/" target="_blank" rel="noreferrer"> <img src="https://kotlinlang.org/lp/mobile/static/preview-9d9a0c57354e45917fadcdac067294d3.png" alt="Kotlin Multiplatform Mobile" width="80" height="40"/> </a>
-</p>
+## 🛠  Techs and tools
+<br>
+
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub Actions-282C34?logo=githubactions&logoColor=2088FF" alt="github actions logo" title="GitHub Actions" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ReactiveX-282C34?logo=reactivex&logoColor=B7178C" alt="reactivex logo" title="ReactiveX" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=FA7343" alt="Swift" title="Swift" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Xcode-282C34?logo=Xcode&logoColor=007ACC" alt="Xcode" title="Xcode" height="25" />][tech_tools_anchor]
+&nbsp;
+
+<br>
+
+[tech_tools_anchor]: #bonjour--
