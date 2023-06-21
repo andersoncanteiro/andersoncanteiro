@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
 <h3 align="center">A mobile developer from Brazil</h3>
 
-- 📫 How to reach me **andersoncanteiro@me.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
+## 📫 How to reach me:  
+**andersoncanteiro@me.com**
+
+<br>
+
+## 📱 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/anderson-canteiro-132038138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson-canteiro-132038138" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3687773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3687773" height="30" width="40" /></a>
