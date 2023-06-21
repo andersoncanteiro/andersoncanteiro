@@ -9,6 +9,8 @@
 <a href="https://stackoverflow.com/users/3687773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3687773" height="30" width="40" /></a>
 </p>
 
+<br>
+
 ## 🛠  Techs and tools
 <br>
 
